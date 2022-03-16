@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.myTable {
+  /* background: yellow; */
+  display: flex;
+  margin-right: 5px;
+  padding-right: 5px;
+}
+
+input {
+  margin-right: 5px;
+  padding-right: 5px;
+  width: 180px;
+}
+
+button {
+  margin-right: 5px;
+}
+
+.myHeader {
+  width: 196px;
+}
+
+.myHeaderInput {
+  /* background-color: yellow; */
+  border-color: white;
+  border: none;
+}
